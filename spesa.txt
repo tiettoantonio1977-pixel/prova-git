@@ -1,2 +1,5 @@
 Lista della spesa
 - pane
+- latte
+- caffè
+- mele

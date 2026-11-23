@@ -4,3 +4,4 @@ Lista della spesa
 - caffè
 - mele
 -pasta
+-olio

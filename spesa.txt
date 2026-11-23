@@ -3,3 +3,4 @@ Lista della spesa
 - latte
 - caffè
 - mele
+-pasta
